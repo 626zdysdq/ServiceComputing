@@ -474,5 +474,18 @@
             "label": "Ctrl+Shift+B",
             "isNative": true
         }
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing/argument/Backups/1538038064178",
+            "uiState": {
+                "mode": 1,
+                "x": 328,
+                "y": 178,
+                "width": 1024,
+                "height": 768
+            }
+        }
     }
 }

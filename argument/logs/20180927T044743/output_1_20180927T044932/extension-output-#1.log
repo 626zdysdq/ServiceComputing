@@ -26,3 +26,7 @@ Installing github.com/mdempsky/gocode SUCCEEDED
 Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
 Installing github.com/ramya-rao-a/go-outline SUCCEEDED
 Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
