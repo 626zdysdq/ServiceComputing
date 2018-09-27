@@ -1,0 +1,28 @@
+/home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing>Finished running tool: /usr/bin/go vet ./...
+
+/home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing>Finished running tool: /usr/bin/go build -i -o /tmp/go-code-check.2087962915 github.com/626zdysdq/ServiceComputing
+
+/home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing>Finished running tool: /usr/bin/go vet ./...
+
+/home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing>Finished running tool: /usr/bin/go build -i -o /tmp/go-code-check.2087962915 github.com/626zdysdq/ServiceComputing
+
+Installing 1 tool at /home/zhuduoyu/gowork/bin
+  goreturns
+
+Installing 11 tools at /home/zhuduoyu/gowork/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  dlv
+  godef
+  godoc
+  goreturns
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED

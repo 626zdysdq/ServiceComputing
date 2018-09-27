@@ -1,0 +1,35 @@
+Looking for git in: git
+Using git 2.18.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/zhuduoyu/gowork/src/github.com/626zdysdq/ServiceComputing
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :hello.go
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :argument/Preferences
+> git ls-files --stage -- argument/
+> git show :argument/machineid
+> git ls-files --stage -- argument/
+> git show :argument/Backups/workspaces.json
+> git ls-files --stage -- argument/Backups/

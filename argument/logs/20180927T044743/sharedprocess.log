@@ -1,0 +1,40 @@
+[2018-09-27 04:47:47.579] [sharedprocess] [info] main {"machineId":"343411df6675c50ba272dba03b251415aa90dc294327ec07f0842c50ecc04e64"}
+[2018-09-27 04:47:47.633] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:47:47.636] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:47:47.643] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:47:47.823] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:47:47.825] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:47:49.655] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:48:27.593] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-27 04:48:47.287] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:48:47.353] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:06.882] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:49:07.044] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:49:07.093] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:07.373] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:49:07.404] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:49:07.434] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:07.456] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:07.875] [sharedprocess] [info] Installing extension: Go
+[2018-09-27 04:49:07.876] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-27 04:49:11.185] [sharedprocess] [info] Downloaded extension: Go /tmp/61fa358a-5571-446a-b580-5ac51300a78d
+[2018-09-27 04:49:14.835] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.go-0.6.89: ms-vscode.go-0.6.89
+[2018-09-27 04:49:14.835] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.go-0.6.89
+[2018-09-27 04:49:14.835] [sharedprocess] [info] Installation completed. ms-vscode.go-0.6.89
+[2018-09-27 04:49:14.873] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2018-09-27 04:49:15.007] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:15.065] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:32.960] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:32.963] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:32.964] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:32.990] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:32.993] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:33.020] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:33.106] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:49:33.141] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:33.145] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:33.148] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:33.153] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:33.191] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-27 04:49:36.054] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-27 04:54:36.571] [sharedprocess] [info] Scanned user extensions: 1
